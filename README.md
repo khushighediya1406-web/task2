@@ -17,8 +17,3 @@ changes, and push code to GitHub.
 2. Open the project folder.
 3. Double-click `index.html` to open it in your browser.
 
-## What I Learned
-- Creating a repository on GitHub
-- Using `git add`, `git commit`, and `git push`
-- Writing a README file in Markdown
-
