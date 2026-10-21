@@ -4,14 +4,14 @@
 This is my second GitHub project, created to practise HTML, CSS, Git, and GitHub. It contains a simple web page designed using HTML and styled with CSS.
 
 ## 📂 Project Files
-- `index1.html` – Contains the structure and content of the web page.
-- `style1.css` – Contains the CSS styles used to design the web page.
+- `index.html` – Contains the structure and content of the web page.
+- `styles.css` – Contains the CSS styles used to design the web page.
 - `README.md` – Provides information about the project.
 
 ## 🚀 How to Run
 1. Clone or download this repository.
 2. Open the project folder.
-3. Open `index1.html` in your web browser to view the web page.
+3. Open `index.html` in your web browser to view the web page.
 
 ## 🌐 Live Demo
 [View Task 2 Website](https://khushighediya1406-web.github.io/task2/)
